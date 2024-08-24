@@ -1,0 +1,4 @@
+.rotating-icon {
+  transform-origin: center;
+  transition: transform 0.5s ease;
+}
